@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #ffffff;
+  font-family: sans-serif;
+}
+
+.image-box {
+  text-align: center;
+}
+
+.main-image {
+  width: 300px;
+  height: auto;
+}
+
+.next-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.next-button:hover {
+  background-color: #45a049;
+}
+
+.center-image {
+  text-align: center;
+}
+
